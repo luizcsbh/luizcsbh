@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>Apresentação Luiz</title>
     <meta charset="utf-8">
   </head>
-  <body background-color="blue">
+  <body style="background-color: #BCD9EA; color:black">
    <div align="center">
     <p>💬About me:</p>
     <a href="https://www.linkedin.com/in/luizcsbh/">
