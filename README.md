@@ -1,4 +1,4 @@
-<div aling="center">
+<p aling="center">
     <a href="https://www.linkedin.com/in/luizcsbh/">
       <img src="https://img.shields.io/badge/-Luiz%20Santos-blue?style=flat-square&logo=linkedin" alt="Perfil Linkedin Luiz Santos">  
     </a>
@@ -8,7 +8,7 @@
     <a href="https://bit.ly/393N7y3" >
         <img src="https://img.shields.io/badge/-Whatsapp-blue?style=flat-square&logo=whatsapp" alt="Contato Whatsapp">
     </a>
-</div>
+</p>
 <!--
 <div>
 <p>🚀 Olá sou Luiz Santos especialista em Desenvolvimento Web Full Stack, gosto de praticar esportes ao ar livre com contato com a natureza principalmente trekking próximo a cidade que resido e tomar um chimarrão. 
