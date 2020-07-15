@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-  </head>
-  <body style="background-color: #BCD9EA; color:black">
-   <div align="center">
+<div align="center">
     <p>💬About me:</p>
     <a href="https://www.linkedin.com/in/luizcsbh/">
       <img src="https://img.shields.io/badge/-Luiz%20Santos-blue?style=flat-square&logo=linkedin" alt="Perfil Linkedin Luiz Santos">  
@@ -40,9 +34,19 @@
 
 <p>If you want to get in touch, feel free to say hello through any of the social media links above.</p>
 </div>
-</body>
-</html>
 
 
+<!--
+**luizcsbh/luizcsbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+-  Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
