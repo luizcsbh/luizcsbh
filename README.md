@@ -1,4 +1,11 @@
-### Hi there 👋
+<div aling="center">
+    <a href="https://www.linkedin.com/in/luizcsbh/">
+      <img src="https://img.shields.io/badge/-Luiz%20Santos-blue?style=flat-square&logo=linkedin" alt="Perfil Linkedin Luiz Santos">  
+    </a>
+    <a href="https://twitter.com/luizcs">
+        <img src="https://img.shields.io/badge/-@luizcs-blue?style=flat-square&logo=twitter" alt="Perfil Twitter">
+    </a>
+</div>
 
 <!--
 **luizcsbh/luizcsbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
