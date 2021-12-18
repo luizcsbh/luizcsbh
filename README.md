@@ -18,7 +18,7 @@
 <div>
 <p>🚀 Olá sou Luiz Santos especialista em Desenvolvimento Web Full Stack, gosto de praticar esportes ao ar livre com contato com a natureza principalmente trekking próximo a cidade que resido e tomar um chimarrão. 
 </p>
-<p>Meus interesses são: Node.js, React.js e JavaScript.</p>
+<p>Meus interesses são: PHP, Node.js, React.js, Vue.js e JavaScript.</p>
 <p>Todos os dias tenho aprimorado meus conhecimentos em programação e tenho evoluindo cada vez mais.</p>
 <p>Se você deseja entrar em contato, sinta-se à vontade para dizer olá através de qualquer um dos links de redes sociais acima.</p>
 </div> 
@@ -28,7 +28,7 @@
 <h1><b><i>Luiz Santos</i></b></h1>
 <p>🚀 Hi, I'm specialist in Full Stack Web Development, I like to play outdoor sports with contact with nature, especially trekking near the city where I live and have a chimarrão.
 </p>
-<p>My interests are: Node.js, React.js and JavaScript.</p>
+<p>My interests are: PHP, Node.js, React.js, Vue.js and JavaScript.</p>
 
 <p>Every day I have improved my knowledge in programming and I have been evolving more and more.</p>
 
